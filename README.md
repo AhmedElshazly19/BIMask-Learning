@@ -12,7 +12,6 @@ BIMask Learning is a training optimization technique that improves deep learning
 
 The enhanced pretrained models can be downloaded from the following Google Drive link:  
 **[Download Enhanced Models](https://drive.google.com/drive/folders/1JDzqvaQqwqf_OmJ4-gqVQJdn8DbILeeZ?usp=sharing)**  
-(Replace with your actual link)
 
 After downloading, place the models in a `checkpoints/` folder or your desired directory and modify `evaluate.py` accordingly if needed.
 
