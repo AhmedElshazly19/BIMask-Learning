@@ -5,7 +5,7 @@ BIMask Learning is a training optimization technique that improves deep learning
 ## Contents
 
 - `models/`: Folder containing the architectures of enhanced pretrained models.
-- `evaluate.py`: Script to evaluate the accuracy of the models on CIFAR-10 and CIFAR-100 datasets.
+- `new_eval.py`: Script to evaluate the accuracy of the models on CIFAR-10 and CIFAR-100 datasets.
 
 
 ## Enhanced Pretrained Models
